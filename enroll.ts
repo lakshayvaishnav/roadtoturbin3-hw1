@@ -4,6 +4,7 @@ import { IDL, WbaPrereq } from "./programs/wba_prereq";
 import wallet from "./dev-wallet.json";
 
 const keypair = Keypair.fromSecretKey(new Uint8Array(wallet));
+console.log("keypair :",keypair.publicKey);
 
 const connection = new Connection("https://api.devnet.solana.com");
 
