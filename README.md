@@ -60,5 +60,4 @@ For example:
 
 ## Conclusion
 
-This project serves as an educational tool for understanding key functionalities of the Solana blockchain, including wallet management, token transfers, and interacting with smart contracts using PDAs. Feel free to explore and modify the code as you learn more about blockchain development!
-
+This project serves as an educational tool for understanding key functionalities of the Solana blockchain, including wallet management, token transfers, and interacting with smart contracts using PDAs.
